@@ -1,21 +1,21 @@
 +++
 # Display name
-title = "DanielM"
+title = "Daniel M"
 
 # Author weight -- for sort purposes
 weight = 10
 
 # Username (this should match the folder name)
-authors = ["npalopoli"]
+authors = ["DanielM"]
 
 # Author name (this is required for people without content)
-npalopoli = [""]
+DanielM = [""]
 
 # Role/position
-role = "Honorary Member"
+role = "Member"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Computational biologist. Researcher at CONICET. Teaching Assistant at Universidad Nacional de Quilmes.."
+bio = "Computational biologist. Researcher at CONICET. Teaching Assistant at Universidad Nacional de Buenos Aires.."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "nicopalo@gmail.com"
