@@ -74,15 +74,6 @@ user_groups = ["Honorary Members"]
 Bioinformatics | Data Science | Experienced International
 🔭 PhD student, Lic Biology, Data science, Biotechnologist, Farmer 👺
 🌱 working at IFEVA-UBALink a Google 🌲🌲🌲
-😄 You can cheak out my Instagram instagram.com/daisukematsusaka
 🏫 Assistant for plant physiology and Eco-physiology Agronomia UBA 🍓
 
-Experienced professional with a strong background in bioinformatics,
-data science and crop yield. Skilled in data mining and analytics, 
-google cloud, natural language processing (NLTK), machine learning
-and random forest, statistical models such as no lineal and mixed 
-models using R program and Python. Data visualization with Power 
-B and Tableu. Actively engaged in diverse projects, courses, and 
-workshops, consistently seeking new challenges and continuous 
-improvement. 
 
