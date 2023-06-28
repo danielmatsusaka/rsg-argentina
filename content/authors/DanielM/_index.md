@@ -12,7 +12,7 @@ authors = ["DanielM"]
 DanielM = [""]
 
 # Role/position
-role = " Honorary Member"
+role = "Honorary Member"
 
 # Short bio (displayed in user profile at end of posts)
 bio = "Computational biologist. Researcher at CONICET. Teaching Assistant at Universidad Nacional de Buenos Aires.."
@@ -25,17 +25,17 @@ interests = ["Bioinformatics", "genomics", "Data science","Plant physiology"," N
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Members"]
+user_groups = ["Honorary Members"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "Ms in Biotecnology"
-  institution = "Universidad Nacional de Quilmes"
-  year = 2005
+  course = "Master in Data Science"
+  institution = "Universidad Nacional Austral"
+  year = 2023
 [[education.courses]]
   course = "PhD"
-  institution = "Universidad Nacional de Quilmes"
-  year = 2011
+  institution = "Universidad Nacional de Buenos Aires"
+  year = 2023
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
