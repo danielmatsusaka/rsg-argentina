@@ -86,11 +86,3 @@ B and Tableu. Actively engaged in diverse projects, courses, and
 workshops, consistently seeking new challenges and continuous 
 improvement. 
 
-💬 For biology and bioinformatic ask me about Coffea arabica, Arabidopsis, QTL, GWAS, Mutants lines, Natural Variation, plant interaction with light, plant stress, flowering days....🦈🦈🦈 ...
-💬 For biotecnology ask me PCR, tissue culture
-💻I really enjoy learning languages and analyze data 🖱️
-👋👋To learn more about Arabidopsis see Link a Google👋👋
-
---
-
-I am currently living with my wife and son in our home town of Buenos Aires, Argentina.
