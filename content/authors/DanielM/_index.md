@@ -12,7 +12,7 @@ authors = ["DanielM"]
 DanielM = [""]
 
 # Role/position
-role = "Member"
+role = " Honorary Member"
 
 # Short bio (displayed in user profile at end of posts)
 bio = "Computational biologist. Researcher at CONICET. Teaching Assistant at Universidad Nacional de Buenos Aires.."
